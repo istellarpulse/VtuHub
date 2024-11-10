@@ -1,0 +1,20 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore VS Code specific files
+.vscode/
+
+# Ignore node_modules (if applicable)
+node_modules/
+
+# Ignore temporary and backup files
+*~
+*.bak
+*.swp
